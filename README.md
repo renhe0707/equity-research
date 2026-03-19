@@ -221,6 +221,6 @@
 
 ---
 
-**Author 作者**: Robert Ren (任禾)  
-Purdue University | B.S. Applied Statistics & Actuarial Science  
+**Author 作者**: Robert Ren 任禾 
+Purdue University | B.S. Applied Statistics
 Contact: robert.renhe.work@gmail.com
