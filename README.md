@@ -2,7 +2,7 @@
 
 # 泡泡玛特国际集团 (9992.HK) — 个股深度研究报告
 
-**Author 作者**: Robert Ren (任禾) | Purdue University  
+**Author 作者**: Robert Ren 任禾  
 **Date 日期**: March 2026  
 **Rating 评级**: **BUY 买入** | Target Price 目标价: **HK$300** (Upside +38%)  
 **Current Price 现价**: HK$217.80 (as of Mar 17, 2026)
