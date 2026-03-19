@@ -1,0 +1,165 @@
+{
+  "revenue": [
+    25.13,
+    44.91,
+    46.17,
+    63.01,
+    130.38
+  ],
+  "gross_profit": [
+    15.94,
+    27.59,
+    26.55,
+    38.64,
+    87.08
+  ],
+  "net_profit": [
+    5.23,
+    8.55,
+    4.76,
+    10.89,
+    33.08
+  ],
+  "adj_net_profit": [
+    5.91,
+    10.02,
+    5.68,
+    11.9,
+    34.0
+  ],
+  "gross_margin": [
+    63.4,
+    61.4,
+    57.5,
+    61.3,
+    66.8
+  ],
+  "net_margin": [
+    20.8,
+    19.0,
+    10.3,
+    17.3,
+    25.4
+  ],
+  "total_assets": [
+    69.71,
+    83.24,
+    85.8,
+    99.69,
+    148.71
+  ],
+  "total_equity": [
+    61.31,
+    68.2,
+    69.65,
+    77.8,
+    108.85
+  ],
+  "total_liabilities": [
+    8.4,
+    15.04,
+    16.15,
+    21.88,
+    39.86
+  ],
+  "china_revenue": [
+    null,
+    null,
+    39.15,
+    52.35,
+    79.72
+  ],
+  "overseas_revenue": [
+    null,
+    null,
+    7.02,
+    10.66,
+    50.66
+  ],
+  "ip_names_2024": [
+    "THE MONSTERS",
+    "MOLLY",
+    "SKULLPANDA",
+    "CRYBABY",
+    "DIMOO",
+    "Others"
+  ],
+  "ip_revenue_2024": [
+    30.41,
+    20.93,
+    13.08,
+    11.65,
+    7.42,
+    46.89
+  ],
+  "h1_2025_revenue": 138.8,
+  "h1_2025_gross_margin": 70.3,
+  "h1_2025_net_profit": 45.74,
+  "h1_2025_adj_net_profit": 47.1,
+  "category_names": [
+    "手办 Figurines",
+    "毛绒 Plush",
+    "MEGA",
+    "衍生品 Derivatives"
+  ],
+  "category_revenue": [
+    69.4,
+    28.3,
+    16.8,
+    15.9
+  ],
+  "region_names": [
+    "东南亚\nSoutheast Asia",
+    "北美\nNorth America",
+    "东亚\nEast Asia",
+    "欧澳其他\nEurope & Others"
+  ],
+  "region_revenue": [
+    24.03,
+    7.23,
+    13.86,
+    5.54
+  ],
+  "store_years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    "H1 2025"
+  ],
+  "china_stores": [
+    187,
+    215,
+    329,
+    363,
+    401,
+    443
+  ],
+  "overseas_stores": [
+    0,
+    7,
+    43,
+    80,
+    130,
+    128
+  ],
+  "robo_shops": [
+    1351,
+    1553,
+    2067,
+    2190,
+    2300,
+    2597
+  ],
+  "eps_hkd": [
+    null,
+    null,
+    null,
+    null,
+    2.42
+  ],
+  "stock_price_hkd": 217.8,
+  "shares_outstanding_m": 1343,
+  "market_cap_hkd_b": 292
+}
